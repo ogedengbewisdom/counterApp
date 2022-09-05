@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background: rgb(98, 79, 79);
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#container {
+    margin: auto;
+    max-width: 30%;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    background: wheat;
+}
+
+h1, h2{
+
+   font-size: 50px;
+   margin: 15px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#increment-btn:hover {
+    background: grey;
+    transform: scale(1.1);
+    color: bisque;
+}
+
+#decrease-btn:hover {
+    background: grey;
+    transform: scale(1.1);
+    color: bisque;
+}
+
+#save-btn:hover {
+    background: grey;
+    transform: scale(1.1);
+    color: bisque;
+}
+
+#stop-btn:hover {
+    background: grey;
+    transform: scale(1.1);
+    color: bisque;
+}
+
+#restart-btn:hover {
+    background: grey;
+    transform: scale(1.1);
+    color: bisque;
+}
+
+
+p {
+    margin: 20px;
+    font-size: 25px;
+}
+
+#decrease-btn {
+    background: rgb(109, 2, 2);
+    font-weight: 800;
+}
+
+#stop-btn {
+    background: rgb(109, 2, 47);
+    font-weight: 800;
+}
+
+#increment-btn {
+    background: darkgreen;
+    font-weight: 800;
+}
+
+#save-btn {
+    background: rgb(117, 77, 2);
+    font-weight: 800;
+}
+
+#restart-btn {
+    background: rgb(207, 103, 103);
+    font-weight: 800;
+}
+
