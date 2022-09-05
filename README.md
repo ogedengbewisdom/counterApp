@@ -12,6 +12,7 @@
 4. Link your html file with your css file
 5. Create a script within the html body tag that include **src** to link javaScript  and make your app functional.
 6. Write a pseudo code to make the javaScript fuctional
+**Documentation of pseudo code Later**
 7. Create a variable to store the count and assign 0;
 8. Document Object Model, should come to play.
 9. Create function to increase, decrease, save, stop and restart.
